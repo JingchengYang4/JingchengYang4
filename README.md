@@ -1,7 +1,5 @@
 ## Jingcheng Yang
 
----
-
 B.S. Computer Science & Philosophy
 
 University of Illinois Urbana-Champaign
