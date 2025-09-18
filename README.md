@@ -1,6 +1,6 @@
 ## Jingcheng Yang
 
-B.S. Computer Science & Philosophy (2024-2028)
+B.S. Computer Science & Philosophy (2024-2027)
 
 University of Illinois Urbana-Champaign
 
