@@ -5,7 +5,9 @@ B.S. Computer Science (2026-2028)
 The University of Chicago
 
 ---
+Computer Science (2024-2026)
 
+University of Illinois Urbana-Champaign
 
 <!--
 **JingchengYang4/JingchengYang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
