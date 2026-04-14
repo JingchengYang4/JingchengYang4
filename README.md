@@ -1,27 +1,10 @@
 ## Jingcheng Yang
 
-B.S. Computer Science (2026-2028)
-
+B.S. Computer Science (2026–2028)  
 The University of Chicago
 
----
-Previously:
-
-Computer Science (2024-2026)
-
-University of Illinois Urbana-Champaign
-
-<!--
-**JingchengYang4/JingchengYang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Previously:*
+>
+>Computer Science (2024–2026)
+>
+>University of Illinois Urbana-Champaign
