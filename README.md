@@ -1,4 +1,4 @@
-## Jingcheng Yang
+## Jingcheng Yang | 杨景程
 
 B.S. Computer Science (2026–2028)  
 The University of Chicago
