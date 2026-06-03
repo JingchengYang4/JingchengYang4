@@ -5,6 +5,5 @@ The University of Chicago
 
 *Previously:*
 >
->Computer Science (2024–2026)
->
+>Computer Science (2024–2026) <br>
 >University of Illinois Urbana-Champaign
